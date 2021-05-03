@@ -1,0 +1,15 @@
+{
+    "name": "mr-agronom/test-php-package",
+    "description": "package for test",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "mr-agronom",
+            "email": "mihail.drozdoff@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
