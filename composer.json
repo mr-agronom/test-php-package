@@ -13,6 +13,8 @@
         "php": ">=7.4"
     },
     "autoload": {
-        "TestPHPPackage": ""
+        "psr-4": {
+            "TestPHPPackage\\": ""
+        }
     }
 }
